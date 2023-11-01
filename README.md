@@ -1,4 +1,4 @@
 # valmir-thor
 
 
-https://valmirdeveloper.github.io/thor/
+https://thor.valmirdeveloper.com.br/
