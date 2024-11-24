@@ -1,8 +1,7 @@
 # valmir-thor
 
 
-https://thor.valmirdeveloper.com.br/
-
+https://thor.valmir.dev.br/
 
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/92243436?v=4" align="center" height="200" width="200" />
